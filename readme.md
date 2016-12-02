@@ -66,6 +66,8 @@ A site designed with RWD adapts the layout to the viewing environment by using f
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 
 
+![image](https://cloud.githubusercontent.com/assets/6520345/20849406/63b6290e-b88b-11e6-91d6-ab998c89a87d.png)
+
 **Find an example of responsive design on the web!**
 
 
@@ -79,7 +81,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 
 Bootstrap comes with a ton of features, including:
 
-- Responsive Grid System
+- [Responsive Grid System](https://getbootstrap.com/examples/grid/)
 - CSS library for quick and easy styling
 - UI components - HTML + CSS
   - buttons
@@ -134,6 +136,8 @@ Bootstrap comes with a ton of features, including:
 
 #### Page layout using the Grid System
 ![grid](https://raw.githubusercontent.com/sf-wdi-26/modules/master/w02/d03/m3-bootstrap/imgs/grid.png)
+
+**Note:** There's an error in the image above. Can you find it? Maybe after you have a bit more background on the 12 column layout system.
 
 Bootstrap's grid system is based on the idea that a page layout for any given screen size is represented with 12 fluid **columns**.  Columns are always horizontally contained in **rows**, which in turn are contained inside of a larger `container` (container > row > column). But why 12?
 
