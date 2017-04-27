@@ -28,7 +28,7 @@ Bootstrap is a **library of CSS classes** that helps make any old site look nice
 - Write custom HTML & CSS
 - Include external stylesheets
 
-##What is Class-based CSS?
+## What is Class-based CSS?
 
 Create modular classes that *encapsulate* a certain behavior and name them semantically.
 
@@ -55,20 +55,6 @@ How would you style CSS for these elements?
 ```
 
 </details>
-
-
-## What is Responsive Design?
-
-"Responsive web design (RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing and interaction experience— easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from desktop computer monitors to laptops to cellphones).
-
-A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, etc..."
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
-
-
-![image](https://cloud.githubusercontent.com/assets/6520345/20849406/63b6290e-b88b-11e6-91d6-ab998c89a87d.png)
-
-**Find an example of responsive design on the web!**
 
 
 ## Intro to Bootstrap
